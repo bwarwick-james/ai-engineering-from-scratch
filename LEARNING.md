@@ -80,5 +80,6 @@ Total: ~30 hours across 27 lessons. Skipped phases can be added later by re-runn
 |------|--------|------|------|
 | 2026-11-16 | 11/01-prompt-engineering | 3/3 | Strong instincts. Initially used vague adjectives ("precise, concise") instead of testable rules and left input/example unlabeled; picked up delimiters, temp 0 for reproducibility, prefill. Asked why latency matters. Spotted eval-slide tie-breaking issue once explained. |
 | 2026-11-16 | 11/03-structured-outputs | 3/3 | Warm-up 2/2. Nailed "schema checks shape, not truth" and spotted the fake "Unknown/$0" row. Needed nudge that range limits (min/max) aren't always enforced by providers and business-sense checks still belong in the app. |
+| 2026-11-16 | 11/04-embeddings | 3/3 | Warm-up 2/2. Ranked semantic vs keyword results correctly; explained word-count embedder failure as "doesn't consider synonyms"; knew docs embed ahead of time, queries at search time, edits need re-embedding. Introduced: model switch = full re-embed. |
 
 ## Review queue
