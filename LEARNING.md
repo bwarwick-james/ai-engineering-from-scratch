@@ -78,5 +78,6 @@ Total: ~30 hours across 27 lessons. Skipped phases can be added later by re-runn
 ## Progress log
 | Date | Lesson | Quiz | Note |
 |------|--------|------|------|
+| 2026-11-16 | 11/01-prompt-engineering | 3/3 | Strong instincts. Initially used vague adjectives ("precise, concise") instead of testable rules and left input/example unlabeled; picked up delimiters, temp 0 for reproducibility, prefill. Asked why latency matters. Spotted eval-slide tie-breaking issue once explained. |
 
 ## Review queue
